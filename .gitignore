@@ -1,0 +1,5 @@
+.DS_Store
+notebooks/*
+!notebooks/.empty
+shared/*
+!shared/.empty
